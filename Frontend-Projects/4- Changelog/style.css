@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  margin: 40px;
+  display: grid;
+  grid-template-columns: repeat(3,auto);
+  gap: 0 20px;
+  align-items: center;
+  max-width: max-content;
+}
+
+.date {
+  justify-self: end;
+}
+
+.desc {
+  justify-self: start;
+}
+
+/* Listra de linha do tempo */
+
+.circle-container {
+  height: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.circle {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: #c7c7c7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 100%;
+  background-color: #c7c7c7;
+}
+
+/* Listra de linha do tempo */
+
+a {
+  margin-top: 20px;
+  background-color: #111;
+  color: #fff;
+  padding: 15px 30px;
+  display: inline-block;
+  text-decoration: none;
+}
