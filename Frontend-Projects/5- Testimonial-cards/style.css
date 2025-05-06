@@ -85,7 +85,6 @@ main {
 .area-cite2 {
   margin-top: 30px;
   display: flex;
-  /* flex-wrap: wrap; */
   gap: 20px;
 
   & img {
@@ -135,4 +134,15 @@ main {
 .area-cite3 ul img[src*="tenma"] {
   opacity: 0.5;
   transform: scale(80%);
+}
+
+@media (max-width: 700px) {
+  .area-cite1,
+  .area-cite2 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .area-cite3 ul {
+    gap: 10px;
+  }
 }
