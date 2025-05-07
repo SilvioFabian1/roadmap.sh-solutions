@@ -1,16 +1,5 @@
 # My Solutions for the Roadmap.sh Challenger
 
-### Project List
-- [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
-- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
-- [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
-- [Changelog Component](https://roadmap.sh/projects/changelog-component)
-- [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
-- [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
-- [Acessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
-- [Image Grid Layout](https://roadmap.sh/projects/image-grid)
-- [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
-
 ## Frontend (my Submission)
 1. [Single-Page CV](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/1-Single-Page-CV)
 2. [Basic HTML Website](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/2-Basic-HTML-Website)
@@ -21,3 +10,14 @@
 7. [Acessible Form UI](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/7-Acessible-Form-UI)
 8. [Image Grid Layout](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/8-Image-Grid-Layout)
 9. [Tooltip UI](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/9-Tooltip-UI)
+
+### Project List
+- [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+- [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
+- [Changelog Component](https://roadmap.sh/projects/changelog-component)
+- [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
+- [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
+- [Acessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
+- [Image Grid Layout](https://roadmap.sh/projects/image-grid)
+- [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
