@@ -1,0 +1,5 @@
+Make with JS
+
+[] Add aria-invalid
+[] Error messaging
+[] Interactive Elements - Make sure that the button to show/hide the password is accessible via keyboard and screen readers, providing clear feedback on the current state (e.g., “Password is hidden” or “Password is visible”).

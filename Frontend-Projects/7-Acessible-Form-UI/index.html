@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acessible Form UI</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <main>
+    <form>
+      <h1>Authentication Page</h1>
+      <label>
+        <span>Full Name</span>
+        <input type="text" name="fullname" placeholder="What should we call you?" autofocus required>
+      </label>
+
+      <label>
+        <span>Email</span>
+        <input type="email" name="email" placeholder="john@doe.com" required>
+      </label>
+
+      <label>
+        <span>Enter Password</span>
+        <input type="password" name="password" placeholder="xxxxxxx" required>
+        <img class="password-eye" src="./img/eye.svg" alt="">
+      </label>
+
+      <label>
+        <span>Confirm Password</span>
+        <input type="password" name="confirmpassword" placeholder="xxxxxxx" required>
+        <img class="password-eye" src="./img/eye.svg" alt="">
+      </label>
+
+      <button class="button" type="submit">Access</button>
+    </form>
+
+    <section class="progress-section" aria-labelledby="progress-title">
+      <div id="progress-bar--container">
+        <svg viewBox="0 0 100 100">
+          <circle stroke="#EAEAEA" stroke-width="5.5" cx="50" cy="50" r="30" fill="none" />
+          <circle id="progress--circle" stroke="#000" stroke-width="5.5" cx="50" cy="50" r="30" fill="none" pathLength="100" />
+          <text id="progress--text" x="50" y="50" text-anchor="middle" dominant-baseline="middle">0%</text>
+        </svg>
+      </div>
+      <h2 id="progress-title">Completed Form</h2>
+      <ol class="task-completed">
+        <li><del>Name Filled</del></li>
+        <li>Email Filled</li>
+        <li>Password Filled</li>
+        <li>Confirm Password Correct</li>
+      </ol>
+    </section>
+  </main>
+</body>
+
+</html>

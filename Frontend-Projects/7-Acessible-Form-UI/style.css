@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+ol {
+  list-style: none;
+}
+
+main {
+  background-color: #323232;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  & label {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    position: relative;
+  }
+  & label span {
+    font-size: 1.125rem;
+  }
+  & label input {
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    outline: none;
+    background-color: #dee4ea;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #454f59;
+  }
+  & label input:focus {
+    background-color: #fff;
+    border-color: #b8d3f4;
+  }
+}
+
+.password-eye {
+  position: absolute;
+  bottom: 9px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.button {
+  align-self: center;
+  padding: 15px 50px;
+  border-radius: 15px;
+  border: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-size: 1.2rem;
+  color: #323232;
+}
+
+#progress-bar--container {
+  text-align: center;
+}
+
+#progress-bar--container svg {
+  max-width: 200px;
+}
+
+svg {
+  transform: rotate(-90deg);
+}
+
+#progress--circle {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  stroke-linecap: round;
+}
+
+#progress--text {
+  font-weight: 750;
+  font-size: 1rem;
+  transform-origin: center;
+  transform: rotate(90deg);
+  fill: #fff;
+}
+
+#progress-title {
+  text-align: center;
+}
+
+.task-completed {
+  margin-top: 20px;
+  border-radius: 15px;
+  background-color: #111;
+  padding: 30px;
+}
+
+.task-completed li {
+  padding: 5px;
+}
+
+.task-completed li + li {
+  margin-top: 5px;
+  font-size: 1.125rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
