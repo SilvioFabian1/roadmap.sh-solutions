@@ -8,6 +8,7 @@
 - [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 - [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
 - [Acessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
+- [Image Grid Layout]()
 
 ## Frontend (my Submission)
 1. [Single-Page CV](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/1-Single-Page-CV)
@@ -17,3 +18,4 @@
 5. [Testimonial Cards](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/5-Testimonial-cards)
 6. [Datepicker UI](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/6-Datepicker-UI)
 7. [Acessible Form UI](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/7-Acessible-Form-UI)
+8. [Image Grid Layout]()
