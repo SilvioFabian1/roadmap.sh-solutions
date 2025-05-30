@@ -13,6 +13,7 @@
 10. [Tabs](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/9-Tooltip-UI)
 11. [Cookie Consent](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/11-Cookie-Consent)
 12. [Restricted Area](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/12-Restricted-Textarea)
+13. [Accordion](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/13-Accordion)
 
 ### Project List
 - [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
@@ -27,3 +28,4 @@
 - [Tabs](https://roadmap.sh/projects/simple-tabs)
 - [Cookie Consent](https://roadmap.sh/projects/cookie-consent)
 - [Restricted Area](https://roadmap.sh/projects/restricted-textarea)
+- [Accordion](https://roadmap.sh/projects/accordion)
