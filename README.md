@@ -11,6 +11,7 @@
 8. [Image Grid Layout](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/8-Image-Grid-Layout)
 9. [Tooltip UI](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/9-Tooltip-UI)
 10. [Tabs](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/9-Tooltip-UI)
+11. [Cookie Consent](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/11-Cookie-Consent)
 
 ### Project List
 - [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
@@ -23,3 +24,4 @@
 - [Image Grid Layout](https://roadmap.sh/projects/image-grid)
 - [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
 - [Tabs](https://roadmap.sh/projects/simple-tabs)
+- [Cookie Consent](https://roadmap.sh/projects/cookie-consent)
