@@ -10,7 +10,7 @@
 7. [Acessible Form UI](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/7-Acessible-Form-UI)
 8. [Image Grid Layout](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/8-Image-Grid-Layout)
 9. [Tooltip UI](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/9-Tooltip-UI)
-10. [Tabs]()
+10. [Tabs](https://github.com/SilvioFabian1/roadmap.sh-solutions/tree/main/Frontend-Projects/9-Tooltip-UI)
 
 ### Project List
 - [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
