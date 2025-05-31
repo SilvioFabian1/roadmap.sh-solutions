@@ -1,0 +1,46 @@
+@import '../node_modules/js-datepicker/dist/datepicker.min.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  padding: 5px;
+  font-size: 1rem;
+}
+
+button {
+  text-transform: uppercase;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  border: 1px solid #c7c7c7;
+  padding: 5px;
+}
